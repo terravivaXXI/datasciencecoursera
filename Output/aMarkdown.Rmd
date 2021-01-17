@@ -1,0 +1,14 @@
+---
+title: "Esto es una nalga"
+author: "Pablosik"
+date: "15/1/2021"
+output: html_document
+---
+
+So this is the holly **Markdown** are you really going to be come something in my life *?*
+Whataheck that you 'change' the different styles 
+
+
+- toro  
+- lobo  
+- chuleta  
